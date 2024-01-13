@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/742607049.svg)](https://zenodo.org/doi/10.5281/zenodo.10498988)
+[![DOI](https://zenodo.org/badge/742672361.svg)](https://zenodo.org/doi/10.5281/zenodo.10499324)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/LICENSE)
 [![Code Coverage](https://codecov.io/gh/NCSU-Fall-2022-SE-Project-Team-11/XpensAuditor---Group-11/branch/main/graphs/badge.svg)](https://codecov.io)
 ![GitHub contributors](https://img.shields.io/badge/Contributors-1-brightgreen)
@@ -32,8 +32,8 @@ Terrain Identification from Time Series Data using Random Forest Classifier. **R
 ## System Description and Functions
 **Report:** https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/CSC_522_P20_Final_Report_Fall_22.pdf<br/>
 <img width="1100px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/banner.png"><br/>
-<img width="1100px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/preds.png"><br/>
-<img width="1100px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/accs.png"><br/>
+<img width="600px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/accs.png"><br/>
+<img width="400px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/preds.png"><br/>
 There are billions of products on e-commerce sites making it difficult for businesses to classify good and bad products so that they can promote the good products & remove the bad ones to instill customer loyalty and improve customer experience. This problem can be solved using Sentiment Analysis. Sentiment Analysis is an application which comes under the domain of Natural Language Processing (NLP), wherein, human sentiment is detected and analyzed based on speech or text. There are a plethora of ways for companies to get data for analyzing the customer sentiment. Apart from direct customer interactions, customers also rate and review products. Machine learning models can be trained with such data and a general trend of positive, neutral or negative sentiment can be analyzed for the same. This positive, negative or neutral sentiment will help e-commerce vendors
 determine how customers are feeling about a particular product and likewise promote or demote it from their website.<br/>
 In this project, we aim to perform sentiment analysis using 4 Supervised Machine Learning models, namely, Multinomial Naive Bayes, K-Nearest Neighbour (KNN) Clustering,
