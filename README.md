@@ -31,7 +31,7 @@ Terrain Identification from Time Series Data using Random Forest Classifier. **R
 
 ## System Description and Functions
 **Report:** https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/CSC_522_P20_Final_Report_Fall_22.pdf<br/>
-<img width="1100px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/banner.png"><br/>
+<img width="800px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/banner.png"><br/>
 <img width="600px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/accs.png"><br/>
 <img width="400px" src="https://github.com/kaushikjadhav01/Sentiment-Analysis-of-Amazon-Reviews/blob/main/preds.png"><br/>
 There are billions of products on e-commerce sites making it difficult for businesses to classify good and bad products so that they can promote the good products & remove the bad ones to instill customer loyalty and improve customer experience. This problem can be solved using Sentiment Analysis. Sentiment Analysis is an application which comes under the domain of Natural Language Processing (NLP), wherein, human sentiment is detected and analyzed based on speech or text. There are a plethora of ways for companies to get data for analyzing the customer sentiment. Apart from direct customer interactions, customers also rate and review products. Machine learning models can be trained with such data and a general trend of positive, neutral or negative sentiment can be analyzed for the same. This positive, negative or neutral sentiment will help e-commerce vendors
